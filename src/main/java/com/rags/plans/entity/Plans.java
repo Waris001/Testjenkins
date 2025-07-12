@@ -28,7 +28,7 @@ public class Plans
 	
 	private LocalDate date;
 	
-	
+	private LocalDate newField;
 	@Column(name = "active_status")
 	private String status;
 	
