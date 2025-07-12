@@ -28,6 +28,7 @@ public class Plans
 	
 	private LocalDate date;
 	
+	
 	@Column(name = "active_status")
 	private String status;
 	
